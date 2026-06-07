@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(ls /Users/macintosh/Documents/bintang-kecil/src/)",
+      "Read(//Users/macintosh/Documents/bintang-kecil/**)",
+      "Bash(npm install *)",
+      "Bash(npm run *)",
+      "Bash(grep -n \"MedLens\\\\|medlens\\\\|SnapObat\\\\|snapobat\" \\\\ *)",
+      "Read(//Users/macintosh/flutter/bin/**)",
+      "Read(//opt/homebrew/bin/**)",
+      "Read(//Users/macintosh/**)",
+      "Bash(brew --version)",
+      "Bash(brew install *)",
+      "Bash(mkdir -p /Users/macintosh/Documents/payday && echo \"done\")"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+triage.db
+.nicegui/venv/
+.venv/
+.nicegui/
+__pycache__/
