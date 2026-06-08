@@ -177,8 +177,8 @@ from pages.admin_page import admin_page
 # ======================
 # INIT DB
 # ======================
-init_db()
 init_user_table()
+init_db()
 
 
 # ======================
