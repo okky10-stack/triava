@@ -172,7 +172,9 @@ def interpret_suhu(suhu):
 # TEKANAN DARAH (DEWASA)
 # ======================
 def interpret_td(sys):
-
+    if sys is None:
+        return ""
+    
     if sys < 90:
         return "Hipotensi"
 
