@@ -64,7 +64,6 @@ background:#c7d2fe; border-radius:50%; filter:blur(140px); z-index:0;"></div>
 <div style="position:fixed; bottom:-10%; left:-5%; width:400px; height:400px;
 background:#ddd6fe; border-radius:50%; filter:blur(140px); z-index:0;"></div>
 """,
-            sanitize=False,
         )
 
         # ===== MAIN GLASS WRAPPER =====
